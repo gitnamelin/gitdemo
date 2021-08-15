@@ -1,4 +1,4 @@
 pubilc class Hellogit{
-	pubilc int g = 10 ;
+	pubilc String d  = "hellogit";
 }
 	
